@@ -257,6 +257,10 @@ input:focus {
     font-size: 2vw;
 }
 
+.brand-item:hover{
+    background-color: #bfc6ce4f;
+    cursor: pointer;
+}
 /* brands media Query */
 /*0 to 600px */
 
